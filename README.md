@@ -30,6 +30,7 @@ This app showcases my projects, skills, and background — all in one place.
 ├── assets/
 │ └── codingisfun_logo.png # Logo used in the app
 └── README.md # You're here!
+```
 
 
 ---
