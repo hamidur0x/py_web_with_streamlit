@@ -29,8 +29,7 @@ pg = st.navigation(
 
 
 
-st.logo("assets/codingisfun_logo.png",)
-st.sidebar.markdown("Made by [Hamidur](https://www.facebook.com/hamidurrahman609)")
+st.sidebar.markdown("Made by [Hamidur](https://www.facebook.com/hamidur0x)")
 
 
 pg.run()
