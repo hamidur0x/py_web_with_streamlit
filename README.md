@@ -20,7 +20,7 @@ This app showcases my projects, skills, and background — all in one place.
 
 ## 📁 Project Structure
 
-.
+```bash
 ├── website.py # Main app file
 ├── run_local.zsh # Script to run the app locally
 ├── views/
