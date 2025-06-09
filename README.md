@@ -22,14 +22,13 @@ This app showcases my projects, skills, and background — all in one place.
 
 ```bash
 ├── website.py # Main app file
-├── run_local.zsh # Script to run the app locally
 ├── views/
-│ ├── about_me.py # About Me page
-│ ├── sales_dashboard.py # Sales Dashboard project
-│ └── chatbot.py # Chat Bot project
+│ ├── about_me.py
+│ ├── sales_dashboard.py
+│ └── chatbot.py 
 ├── assets/
-│ └── codingisfun_logo.png # Logo used in the app
-└── README.md # You're here!
+│ └── profile_image.png
+└── README.md
 ```
 
 
