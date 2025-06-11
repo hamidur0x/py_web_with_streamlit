@@ -43,8 +43,15 @@ Follow these steps to run the app on your machine:
 ### 1. Open a terminal and navigate to the project folder:
 
 ```bash
-cd /path/to/your/project
-source venv/bin/activate
+git clone https://github.com/hamidur0x/py_web_with_streamlit.git
+```
+```bash
+cd py_web_with_streamlit
+```
+```bash
 pip install streamlit
+```
+```bash
 streamlit run website.py
+```
 
