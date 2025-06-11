@@ -40,7 +40,7 @@ This app showcases my projects, skills, and background — all in one place.
 
 Follow these steps to run the app on your machine:
 
-### 1. Open a terminal and navigate to the project folder:
+### 1. Open a terminal and then write those commands:
 
 ```bash
 git clone https://github.com/hamidur0x/py_web_with_streamlit.git
